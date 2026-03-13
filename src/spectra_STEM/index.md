@@ -101,14 +101,14 @@ Before imaging, verify that the vacuum system is ready and the column valves can
 
 ### 1.2 Find eucentric height
 
-Complete eucentric height alignment after loading each sample and before imaging. Do **not** skip this step. At eucentric height, the sample remains stationary when tilted. This is essential for accurate imaging and tomography. The ronchigram "blow-up" method provides a quick way to find this position.
+Complete eucentric height alignment after loading each sample and before imaging. Do **not** skip this step. At eucentric height, the sample remains stationary when tilted. This is essential for accurate imaging and tomography. The ronchigram "infinite magnification" point provides a way to find this position.
 
 - [ ] **View ronchigram**
 
   1. In `TEMUI`, view the ronchigram in the main display.
   2. Position probe on a sample region that scatters electrons (not over a hole or vacuum).
 
-     > **NOTE:** The ronchigram is the diffraction pattern formed when the convergent probe is stationary. When defocused, it contains shadow images of sample features, making structure visible during z-height adjustment.
+     > **NOTE:** The ronchigram is the diffraction pattern. When defocused, it contains shadow images of sample features, making structure visible during z-height adjustment.
 
      <img src="img/p1_s2_eucentric_01.jpg" alt="Ronchigram at 80kx showing diffraction pattern" width="400">
 
